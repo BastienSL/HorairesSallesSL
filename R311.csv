@@ -1,0 +1,23 @@
+salle,jour,debut,fin,activite,enseignant,groupe,notes
+R311,Lundi,08:00,11:00,Maths approfondies,Duclos C.,ECG1,Bloc lisible sur le planning
+R311,Lundi,11:00,13:00,Histoire-géographie-géopolitique,Munier F.,ECG1,
+R311,Lundi,14:00,17:00,Philosophie,Terzi R.,ECG1,
+R311,Lundi,17:00,19:00,Colle,Terzi R.,ECG1 colle 1,Libellé lisible ; bornes horaires estimées sur la grille
+R311,Mardi,10:00,12:00,Espagnol,Baduel Moldes C.,ECG1 ESP2,
+R311,Mardi,12:00,14:00,Colle,Duclos C.,ECG2 colle 6,Le bloc semble aller de 12 h à 13 h
+R311,Mardi,14:00,16:00,Maths approfondies,Duclos C.,ECG1,Plusieurs petits blocs superposés/juxtaposés ; horaires et groupes à vérifier
+R311,Mardi,16:00,18:00,Colle,Duclos C.,ECG1 colle 1,
+R311,Mercredi,08:00,10:00,Anglais,Belaggoune F.,ECG1 ANG1 G1,
+R311,Mercredi,10:00,11:00,Lettres & philosophie,Garnier de Boisgroll E.,ECG1,Nom de l'enseignant à vérifier
+R311,Mercredi,11:00,13:00,Maths approfondies,Duclos C.,ECG1,
+R311,Mercredi,14:00,15:00,Informatique option,Duclos C.,ECG1,
+R311,Mercredi,15:00,17:00,Maths approfondies,Duclos C.,ECG1,Plusieurs petits blocs visibles ; détail exact des créneaux à vérifier
+R311,Mercredi,17:30,19:00,Colle,Franco C.,2BCPST2 / 2BCPST2 colle 4,Début estimé à partir du petit repère de grille
+R311,Jeudi,08:00,11:00,Histoire-géographie-géopolitique,Munier F.,ECG1,
+R311,Jeudi,11:00,13:00,Maths approfondies,Duclos C.,ECG1,
+R311,Jeudi,14:00,15:00,Colle,Fiszka C.,ECG1 colle 1,
+R311,Jeudi,15:00,16:00,Colle,Fiszka C.,ECG2 colle 4,
+R311,Vendredi,08:00,10:00,Histoire-géographie-géopolitique,Munier F.,ECG1,
+R311,Vendredi,17:00,18:00,Colle,Chateau E.,ECG2 colle 3,Orthographe du nom et horaires à vérifier
+R311,Vendredi,18:00,19:00,Colle,Chateau E.,ECG2 colle 3,Orthographe du nom et horaires à vérifier
+R311,Samedi,09:30,12:00,Devoir surveillé (DS),,1BCPST1,Début estimé à 9 h 30 ; vérifier l'heure exacte
