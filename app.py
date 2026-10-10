@@ -41,7 +41,7 @@ jour = st.selectbox("Jour", jours) #Création Menu déroulant pour laisser chois
         
 # Choisir l'heure
 heure_actuelle = datetime.now(ZoneInfo("Europe/Paris")).time()
-heure = st.time_input("Heure de référence", value=heure_actuelle)
+heure = st.time_input("Heure", value=heure_actuelle)
 
 
 
