@@ -1,7 +1,8 @@
 import pandas as pd #manipulation fichiers CSV
 import streamlit as st #Création interface web
 import glob  #pour créer un CSV à partir de chaque CSV de chaque salle
-
+from datetime import datetime # Pour le fuseau horaire inital
+from zoneinfo import ZoneInfo #Pareil
 
 # Charger les données
 fichiers_csv = glob.glob("SallesCSV/*.csv")    #Liste chaque fichiers csv du dossier SallesCSV, et les rassemble dans "fichiers_csv".
@@ -38,11 +39,10 @@ jour = st.selectbox("Jour", jours) #Création Menu déroulant pour laisser chois
 
         
 # Choisir l'heure
-heure = st.time_input(
-    "Heure de début",
-    value=pd.Timestamp("14:00").time(), #Heure initiale
-    step=900
-)
+# Choisir l'heure
+heure_actuelle = datetime.now(ZoneInfo("Europe/Paris")).time()
+heure = st.time_input("Heure de référence", value=heure_actuelle)
+
 
 
 
