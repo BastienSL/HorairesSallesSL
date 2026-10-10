@@ -1,0 +1,28 @@
+salle,jour,debut,fin,activite,enseignant,groupe,notes
+C452,Lundi,08:00,10:00,Mathématiques,Laillet N.,MP,
+C452,Lundi,10:00,12:00,Informatique option,Bouvrot O.,MP OPT INFO,
+C452,Lundi,14:30,15:30,Sciences industrielles,Derumaux M.,PSI/2 G2,Créneau estimé d'après la grille
+C452,Lundi,15:30,16:30,Sciences industrielles,Derumaux M.,PSI/2 G1,Créneau estimé d'après la grille
+C452,Lundi,17:00,18:00,Colle,Derumaux M.,PSI/2 colle 2,
+C452,Mardi,08:00,10:00,Mathématiques,Laillet N.,MP G1,
+C452,Mardi,10:00,12:00,Mathématiques,Laillet N.,MP G2,
+C452,Mardi,12:00,13:00,Mathématiques,Laillet N.,MP,
+C452,Mardi,13:30,14:30,Physique,Galy O.,PSI/3 G2,
+C452,Mardi,14:30,16:00,Physique,Galy O.,PSI/3 G1,
+C452,Mardi,16:00,17:00,Colle,Galy O.,PSI/3 colle 5,
+C452,Mardi,17:00,18:00,Colle,Galy O.,PSI/3 colle 5,
+C452,Mercredi,08:00,11:00,Mathématiques,Laillet N.,MP,Borne de fin estimée
+C452,Mercredi,11:00,13:00,Anglais,Naceur E.,MP ANG1 G2,
+C452,Mercredi,15:00,16:30,Réservation de salle,,,
+C452,Mercredi,17:30,18:30,Colle,Renaud-Jensen O.,MP colle 3,
+C452,Mercredi,18:30,19:30,Colle,Renaud-Jensen O.,MP colle 3,
+C452,Jeudi,08:00,10:00,Physique,Dusuel S.,MP,
+C452,Jeudi,10:00,12:00,Mathématiques,Laillet N.,MP,Borne de fin estimée
+C452,Jeudi,14:00,15:00,Colle,Belaggoune F.,ECG1 colle 2,
+C452,Jeudi,15:00,16:30,Anglais,Belaggoune F.,MPSI/3 ANG1 G1,
+C452,Jeudi,16:30,17:30,Anglais,Belaggoune F.,ECG1 ANG1 G1,
+C452,Vendredi,08:00,10:00,Mathématiques,Roblet E.,PSI/2,
+C452,Vendredi,10:00,12:00,Mathématiques,Laillet N.,MP,Borne de fin estimée
+C452,Vendredi,14:30,16:00,Mathématiques,Roblet E.,PSI/2 G1,
+C452,Vendredi,16:00,17:30,Mathématiques,Roblet E.,PSI/2 G2,
+C452,Samedi,09:30,12:00,Devoir surveillé (DS),,MP,Début estimé d'après la grille
